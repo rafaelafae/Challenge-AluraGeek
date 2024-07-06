@@ -36,7 +36,7 @@ const createNewElement = async (name, value, image) => {
 
 const deleteProduct = async (id) => {
     try {
-        const response = await fetch(`https://66888a670ea28ca88b857450.mockapi.io/products/products/${products/:id}`, {
+        const response = await fetch(`https://66888a670ea28ca88b857450.mockapi.io/products/products/${id}`, {
             method: "DELETE",
             headers: {
                 "Content-Type": "application/json",
