@@ -3,9 +3,9 @@
 Este repositório contém o código fonte de um website integrando em uma API desenvolvido utilizando as linguagens HTML, CSS e JavaScript. O website apresenta uma interface amigável e responsiva.
 Neste projeto também foi utilizado Design Feito pela Escola Alura Latam.
 
-[Demo do projeto]()
+[Demo do projeto](https://challenge-alura-geek-ashy.vercel.app/)
 
-![Capa projeto]()
+![Capa projeto](https://github.com/rafaelafae/Challenge-AluraGeek/blob/main/img/capa%20do%20projeto%20-%20web.png)
 
 ## Tecnologias Utilizadas:
 
