@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Capitão América",
+      "value": "60",
+      "image": "https://m.media-amazon.com/images/I/81pHqxTU7GS._AC_SX679_.jpg",
+      "id": 1
+    },
+    {
+      "name": "Capitão América",
+      "value": "60",
+      "image": "https://m.media-amazon.com/images/I/81pHqxTU7GS._AC_SX679_.jpg",
+      "id": 2
+    },
+    {
+      "id": "fe5d",
+      "name": "Captain",
+      "value": "50",
+      "image": "https://m.media-amazon.com/images/I/81pHqxTU7GS._AC_SX679_.jpg"
+    },
+    {
+      "id": "8331",
+      "name": "asd",
+      "value": "asd",
+      "image": "https://m.media-amazon.com/images/I/81pHqxTU7GS._AC_SX679_.jpg"
+    }
+  ]
+}
