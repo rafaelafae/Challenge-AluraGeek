@@ -16,7 +16,7 @@ function newElement(name, value, image, id) {
         </div>
         <div class="product-info-box">
             <h1 class="product-price">$ ${value}</h1>
-            <button class="product-button-delete" type="reset" width="20px" height="20px" data-id${id}>
+            <button class="product-button-delete" type="reset" width="20px" height="20px" data-id=${id}>
                 <img src="../img/trash.png" alt="icone excluir" >
             </button>
         </div>
